@@ -7,8 +7,8 @@ starred: true
 keywords: []
 description: food photography driven
 title: first post - test
-dateModified: '2015-10-11T18:51:41.154Z'
-datePublished: '2015-10-11T18:56:59.646Z'
+dateModified: '2015-10-11T18:56:59.646Z'
+datePublished: '2015-10-11T20:43:22.723Z'
 sourcePath: _posts/2015-10-11-first-post-test.md
 published: true
 authors: []
