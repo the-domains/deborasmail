@@ -1,4 +1,8 @@
-layout_spectrum: 0.25918
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,20 +13,20 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose:
   - name: engagement
     url: null
     item: null
 color:
   saturation: 0
+  brandStrength: 0
   lightness: 0.6954887
-  brandStrength: 1
   brandColors:
     - '#000000'
     - '#fcfcfc'
@@ -31,13 +35,9 @@ color:
     - '#262626'
   rhythmicContrast: 0
 typography_spectrum: 0.2529538
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.25918
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: deborasmail
