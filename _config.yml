@@ -1,6 +1,7 @@
 name: deborasmail
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.25918
+typography_spectrum: 0.72959
 cta:
   domain: null
   bucket: null
@@ -22,8 +23,8 @@ color:
     - '#262626'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: null
