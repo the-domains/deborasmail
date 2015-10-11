@@ -1,31 +1,43 @@
-name: deborasmail
 favicon: null
-layout_spectrum: 0.25918
-typography_spectrum: 0.72959
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: deborasmail
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose:
+  - name: engagement
+    url: null
+    item: null
 color:
+  saturation: 0
+  brandStrength: 1
+  rhythmicContrast: 0.75
   brandColors:
     - '#000000'
     - '#fcfcfc'
     - '#858585'
     - '#c5c5c5'
     - '#262626'
-  brandStrength: 1
   lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.75
-purpose:
-  - name: engagement
-    item: null
-    url: null
+typography_spectrum: 0.2529538
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.25918
+analytics:
+  twitter: null
+  google: null
+  facebook: null
