@@ -1,5 +1,4 @@
-favicon: null
-name: deborasmail
+layout_spectrum: 0.25918
 opengraph:
   image: null
   type: null
@@ -22,8 +21,8 @@ purpose:
     item: null
 color:
   saturation: 0
+  lightness: 0.6954887
   brandStrength: 1
-  lightness: 0.5
   brandColors:
     - '#000000'
     - '#fcfcfc'
@@ -36,8 +35,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.25918
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: deborasmail
